@@ -1,0 +1,35 @@
+                  Data processing and cleaning steps: 
+1. Changing the names of the columns in the dataset: Changing the names of the columns 
+in a dataset is a common data cleaning task where we need to make the column names 
+more user-friendly. We can use Pandas, a Machine Learning library to automatically 
+change the column names as per our requirement. 
+2. Removing unwanted columns: Removing unwanted columns from a dataset is a 
+common data cleaning task, where we remove unnecessary information from the 
+dataset. 
+3. Removing duplicate values: Removing duplicate values from a dataset is a data cleaning 
+task which is performed to maintain the accuracy of the data. This involves identifying 
+and removing duplicate values from one or more columns. 
+4. Dropping the null values: Dropping the null values from the dataset is a common 
+cleaning step that ensures our dataset does not have any incomplete information. We 
+can remove the rows or columns that have missing values.  
+5. Changing the string formats of each column: Changing the string formats of each 
+column is a data cleaning task which is done to ensure the consistency of the data and 
+for better analysis of the data. 
+6. Factorization of categorical variables: Factorization of categorical variables is a common 
+data cleaning task which is done to convert categorical data into numerical 
+representations. 
+7. Converting into categorical variables: Converting into categorical variables is a common 
+data cleaning step where we prepare the data that requires a categorical input for the 
+algorithm. 
+8. Identifying if there is any unwanted characters or special characters and removing 
+them: Identifying if there is any unwanted characters or special characters and removing 
+them is one of the essential steps in the data cleaning. We remove all the unwanted and 
+special characters to make sure the quality of the data is achieved. 
+9. Outliers removal: Outliers removal is an important data cleaning step performed to 
+achieve the reliability of the data. Outliers are data points that are very different from 
+the original data and can cause skewness. In our project, we have performed outliers 
+removal for age column. 
+10. Replacing the empty values with mode: Replacing the empty values with mode is a data 
+cleaning step where the empty values are replaced with mode values (The most 
+frequent occurring value in the dataset). We do this to make a dataset complete and 
+accurate. 
