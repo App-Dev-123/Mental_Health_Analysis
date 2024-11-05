@@ -40,29 +40,30 @@ organizations for better well-being of the employees.
 corporate world and results can be used for further studies.
 
                             Data Cleaning/Processing 
-Understanding the dataset 
-There are 18 columns in the dataset: 
-• Age 
-• Gender 
-• Country 
-• self-employed - Are you self-employed? 
-• treatment – Have you sought treatment for any mental health condition? 
-• work_interfere - f you have a mental health condition; do you feel that it interferes with 
+Understanding the dataset
+
+There are 18 columns in the dataset:
+-- Age 
+-- Gender
+-- Country
+-- self-employed - Are you self-employed? 
+-- treatment – Have you sought treatment for any mental health condition? 
+-- work_interfere - f you have a mental health condition; do you feel that it interferes with 
 your work? 
-• total_employees - How many employees does your company or organization have? 
-• tech_company - Is your employer primarily a tech company/organization? 
-• mental_health_benifits - Does your employer provide mental health benefits? 
-• resources_to_help - Does your employer provide resources to learn more about mental 
+-- total_employees - How many employees does your company or organization have? 
+-- tech_company - Is your employer primarily a tech company/organization? 
+-- mental_health_benifits - Does your employer provide mental health benefits?
+-- resources_to_help - Does your employer provide resources to learn more about mental 
 health issues and how to seek help? 
-• leave - How easy is it for you to take medical leave for a mental health condition? 
-• coworkers - Would you be willing to discuss a mental health issue with your coworkers? 
-• supervisor - Would you be willing to discuss a mental health issue with your direct 
-supervisor(s)? 
-• mental_vs_physical - Do you feel that your employer takes mental health as seriously as 
-physical health? 
-• family_history - Do you have a family history of mental illness? 
-• mental_health_interview - Would you bring up a mental health issue with a potential 
-employer in an interview? 
-• physical_health_interview - Would you bring up a physical health issue with a potential 
-employer in an interview? 
-• year 
+-- leave - How easy is it for you to take medical leave for a mental health condition? 
+-- coworkers - Would you be willing to discuss a mental health issue with your coworkers? 
+-- supervisor - Would you be willing to discuss a mental health issue with your direct 
+supervisor(s)?
+-- mental_vs_physical - Do you feel that your employer takes mental health as seriously as 
+physical health?
+-- family_history - Do you have a family history of mental illness?
+-- mental_health_interview - Would you bring up a mental health issue with a potential 
+employer in an interview?
+-- physical_health_interview - Would you bring up a physical health issue with a potential 
+employer in an interview?
+-- year 
